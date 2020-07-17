@@ -1,6 +1,6 @@
 const Main = () => (
   <main>
-    <h1>Boilerplate NextJs</h1>
+    <h2>teste</h2>
   </main>
 )
 
