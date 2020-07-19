@@ -47,11 +47,11 @@ exports[`<Main /> should render the heading 1`] = `
   >
     Boilerplate
   </h1>
-  <h2
+  <p
     class="c2"
   >
-    TypeScript, ReactJS, NextJS e Styled-Components
-  </h2>
+    TypeScript, ReactJS, NextJS e Styled Components
+  </p>
   <img
     alt="Logo"
     class="c3"
