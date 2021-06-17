@@ -1,5 +1,5 @@
 
-![boilerplate]
+## Boilerplate
 
 This is a [Next.js](https://nextjs.org/) boilerplate.
 ## What is inside?
